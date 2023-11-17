@@ -20,5 +20,5 @@ To setup mpesa prompt go to your [daraja api account](https://developer.safarico
 
 #  Exposing localhost to public internet
 1. Extract the ngrok zip file in the same directory.
-2. Open the extracted executable file and type ```bash ngrok http 80  ```.
-3. Copy the fowarding url and add the project directoy name and the php file you want to open with the url( https://....ngrok-free.app/E-Commerce/Login%20page.php) to access the website(login page) from the public internet.
+2. Open the extracted executable file and type ```ngrok http 80```.
+4. Copy the fowarding url and add the project directoy name and the php file you want to open with the url( https://....ngrok-free.app/E-Commerce/Login%20page.php) to access the website(login page) from the public internet.
