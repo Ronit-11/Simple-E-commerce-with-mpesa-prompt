@@ -1,5 +1,5 @@
-# simple-ecommerce-using-procederal-php-with-checkout-mpesa-prompt
-It uses php, css, and html in a procederal way with mpesa stk push(prompt) for checkout. It inlcudes ngrock that is a free software to expose localhost to the internet to allow for redirects after after mpesa prompt over the public internet.
+# Simple-E-commerce-with-mpesa-prompt
+This is a basic ecommerce website that uses procederal php, css, and html with mpesa stk push(prompt) for checkout. It inlcudes ngrock that is a free software to expose localhost to the internet to allow for redirects after after mpesa prompt over the public internet.
 
 # Database setup
 To setup mysql database:
