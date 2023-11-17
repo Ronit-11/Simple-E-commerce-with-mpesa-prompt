@@ -1,0 +1,562 @@
+/*all Html Pages*/
+.allpages{
+	height: 1345px;
+	width: 1519px;
+	background-color: #4382;
+	display: flex;
+	margin: 0px;
+	margin-top: 40px;
+	
+}
+
+input:hover, input:focus, a:hover{
+	background-color: #284D79;
+}
+
+a:link, a:active, a:visited, .topRight{
+	color: aliceblue;
+	text-decoration: none;
+}
+
+
+/*Home page*/
+#logo{
+	position: absolute;
+	left: 70px;
+	top: 10px;	
+	width: 160px;
+	height: 120px;
+	border: solid;
+}
+
+#socialmedia{
+	position: absolute;
+	left: 250px;
+	top: 10px;
+	height: 30px;
+	width: 190px;
+}
+		.socialmedia{
+			height: 30px;
+			width: 30px;	
+		}
+		#instasmall{
+			height: 28px;
+		}
+		#Instagram{
+			top: 1px;
+			left: 20px;
+			position: absolute;
+		}
+		#Facebook{
+			left: 60px;
+			position: absolute;
+		}
+		#Whatsapp{
+			left: 100px;
+			position: absolute;
+		}
+		#Twitter{
+			left: 140px;
+			position: absolute;
+		}
+
+#searchbar{
+	position: absolute;
+	left: 250px;
+	top: 50px;
+	border: solid;
+}
+		#searchbar, #searchedcloth{
+			height: 40px;
+			width: 700px;
+		}
+		#searchicon{
+			float: left;
+			position: absolute;
+			top: 5px;
+			left: 10px;
+			height: 30px;
+			width: 30px;
+		}
+		#searchedcloth{
+			border: none;
+			font-size: 28px;
+			padding-left: 50px;
+		}
+
+#top_right{
+	position: absolute;
+	left: 840px;
+	top: 10px;
+	height: 30px;
+	width: 600px;
+	border: solid;
+	font-size: 20px;
+}
+
+#return{
+	position: absolute;
+	left: 1290px;
+	top: 52px;
+	height: 80px;
+	width: 150px;
+	border: solid;	
+}
+
+.topRight{
+	position: absolute;
+	top: 3px;
+}
+		#loginpage {
+			right: 305px;
+		}
+
+		#signuppage {
+			right: 180px;
+		}
+
+		#Contactus{
+			right: 40px;
+		}
+
+#navigationbar{
+	position: absolute;
+	left: 250px;
+	top: 100px;
+	height: 30px;
+	width: 600px;
+	border: solid;
+}
+
+#brandlogos{
+	position: absolute;
+	top: 145px;
+	left: 115px;
+	right: 115px;
+	height: 60px;
+	width: 1288px;
+}
+
+#sliders{
+	position: absolute;
+	left: 115px;
+	top: 265px;
+	right: 115px;
+	height: 690px;	
+	width: 1288px;
+}
+#slidersimages{
+	position: absolute;
+	height: 690px;
+	width: 1288px;
+}
+
+.navbar{
+	position: absolute;
+	font-size: 22px;
+	background-color: transparent;
+	top: 2px;
+}
+		#Homepage{
+			left: 20px;
+		}
+		#Menwearpage{
+			left: 115px;
+		}
+		#Womenwearpage{
+			left: 250px;
+		}
+		#Childwearpage{
+			left: 405px;
+		}
+
+.clothes{
+	position: absolute;
+	text-align: center;
+	background-color: lightgray;
+	top: 280px;
+	height: 390px;
+	width: 310px;
+	font-size: 24px;
+	border: solid 1.5px;
+}
+		#jeans{
+			left: 10.5px;
+		}
+		#tShirts{
+			left: 329.5px;
+		}
+		#shirts{
+			left: 648.5px;
+		}
+		#jackets{
+			left: 967.5px;
+		}
+		.clothtop1, .clothtop2, .clothbottom1, .clothbottom2{
+			position: absolute;
+			height: 175px;
+			width: 147.5px;
+		}
+		.clothtop1{
+			top: 30px;
+			left: 5px;
+		}
+		.clothtop2{
+			top: 30px;
+			left: 157.5px;
+		}
+		.clothbottom1{
+			top: 210px;
+			left: 5px;
+		}
+		.clothbottom2{
+			top: 210px;
+			left: 157.5px;
+		}
+
+#belowFold{
+	position: absolute;
+	top: 970px;
+	height: 381px;
+	width: 1284px;
+	left: 115px;
+	right:  115px;
+	border: solid 1px;
+}
+
+.belowItems{
+	position: absolute;
+	right: 10px;
+	left: 10px;
+	font-size: 22px;
+	text-align: center;
+}
+		#AboutUs{
+			top: 5px;
+			font-size: 28px;
+		}
+		#firstbelow{
+			height: 220px;
+		}
+		#firstBelowImage{
+			position: absolute;
+			top: 45px;
+			left: 132px;
+			height: 250px;
+			width: 1000px;
+		}
+		#secondbelow{
+			top: 312px;
+			height: 26px;
+		}
+		#thirdbelow{
+			top: 350px;
+			height: 35px;
+			font-size: 19px;
+		}
+
+#header{
+	z-index: 10;	
+	position: sticky;
+	top: -1px;
+	height: 215px;
+	width: inherit;
+	background-color: #284D79;	
+}
+
+.form{
+	position: absolute;
+	padding: 20px;
+	font-size: 20px;
+	width: 400px;
+}
+
+
+/*Sign Up Page*/
+#SignUploginpage{
+	right: 180px;
+}
+
+#UserdataForm{	
+	top: 270px;
+	left: 550px;	
+}
+
+#Legend{
+	text-align: center;
+	font-size: 25px;
+}
+
+
+/*Logged in home page*/
+#Logoutpage{
+	right: 180px;
+}
+
+#Mycartpage{
+	right: 305px;
+}
+
+#username{
+	right: 430px;
+	color: aliceblue;
+}
+
+
+/*Admin Page*/
+#AdminPage{
+	height: 713px;
+}
+
+#AdminViewOrders{
+	left: 405px;
+}
+
+#AdminViewUsers{
+	left: 260px;
+} 
+
+#AdminViewProducts{
+	left: 95px;
+}
+
+#usernameAdmin{
+	right: 180px;
+}
+
+#LogoutpageAdmin{
+	right: 40px;
+}
+
+#headerAdmin{
+	z-index: 10;	
+	position: sticky;
+	top: -1px;
+	height: 145px;
+	width: inherit;
+	background-color: #284D79;	
+}
+
+#UserdataFormAdmin{
+	top: 195px;
+	left: 70px;
+}
+
+#CategoryFormAdmin{
+	top: 195px;
+	right: 70px;
+}
+
+#SubCategoryFormAdmin{
+	top: 380px;
+	right: 70px;
+}
+
+#Addpage{
+	left: 20px;
+}	
+
+#ProductFormAdmin, #UserEditdataFormAdmin{
+	top: 195px;
+	left: 535px;
+}	
+
+
+/*Admin View Users Page*/
+#AdminViewUsersPage{
+	height: 713px;
+	overflow-y: visible;
+}
+
+#userData, #productsData, #userCartData, #ordersData{
+	position: absolute;
+	top: 210px;
+	left: 70px;
+	right: 77px;
+	border-collapse: collapse;
+	width: 1372px;
+}
+
+table, th, td{
+	border: 1px solid #284D79;
+	color: #284D79;
+	font-weight: bold;
+}
+
+th, .Total{
+	font-size: 22px;
+	background-color: #284D79;
+	color: aliceblue;
+}
+
+tr{
+	font-size: 18px;
+	text-align: center;
+}
+
+tr:nth-child(even){
+	background-color: #4583;
+}
+
+tr:hover {
+	background-color: white;
+}
+
+.userId{
+	width: 80px;
+}
+
+/*Category pages (Men, Women, Children)*/
+.images{
+	position: absolute;
+	top: 265px;
+	width: 1288px;
+	left: 118px;
+	font-size: 19px;
+}
+
+.product{
+	display: inline-block;
+    box-sizing: border-box;
+    margin: 5px 5px 5px 5px;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    background-color: #efefef;
+    border: 1px solid #284D79;
+}
+
+.productImage{
+	width: 198px;
+	height: 227px;
+	padding-bottom: 3px;
+}
+
+/*Cart page*/
+#userCartData{
+	position: absolute;
+	top: 265px;
+	width: 1288px;
+	left: 118px;
+}
+
+#cartRemove, #plus, #minus{
+	color: aliceblue;
+	display: inline-block;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #284D79;
+    border-radius: 6px;
+    outline: none;
+}
+
+#plus, #minus{
+	font-size: 25px;
+	height: 24px;
+	width: 24px;
+	border-radius: 4px;
+}
+
+#qty{
+	display: inline-block;
+	width: 100px;
+	text-align: center;
+	margin: 0px;
+}
+
+#cartProductPicture{
+	height: 100px;
+	width: 110px;
+}
+
+#cartProductName{
+	margin: 0px;
+}
+
+#userCartData{
+	width: 1127px;
+	left: 50px;
+	right: 177px;
+}
+
+#cartSummary{
+	position: absolute;
+	top: 265px;
+	right: 50px;
+	left: 1192px;
+	width: 280px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #284D79;
+	text-align: center;
+	border: 2px solid #284D79;
+}
+
+#cartSumm, #cartSummSubtotal{
+	margin: 5px;
+}
+
+br{
+	color: #284D79;
+	border: 2px solid #284D79;
+	width: 300px;
+}
+
+#cartSumm{
+	background-color: #284D79;
+	color: aliceblue;
+	margin: -1px;
+	height: 28.6px;
+}
+
+#noItemInCart, #noItemBought{
+	color: #284D79;
+	position: absolute;
+	margin: 0px;
+	top: 270px;/*in ngrock 270px*/
+	font-size: 90px;
+	left: 200px;
+	right: 150px;
+}
+
+#noItemBought{
+	text-align: center;
+}
+
+#cartSummSubtotal{
+	display: inline-block;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	left: 1192px;
+	margin-right: 10px;
+}
+
+#totalToLeft{
+	display: inline-block;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	text-align: right;
+	margin-left: 10px;
+}
+
+#checkoutButton{
+	font-size: 20px;
+	font-weight: bold;
+	color: #284D79;
+	margin-bottom: 5px;
+}
+
+/*Cart History Page*/
+#CartHistorypage{
+	right: 295px;
+}
+
+#ordersData{
+	top: 270px;
+}
+
+#UserEditdataFormAdmin{
+	top: 270px;
+}
