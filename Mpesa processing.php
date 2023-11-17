@@ -9,7 +9,7 @@ require("DBConnection.php");
 if($_SESSION['total']>0){
     $consumer_key = ''; //get these details from daraja api
     $consumer_secret = '';              //get these details from daraja api
-    $Business_Code = '';                          //get these details from daraja api
+    $Business_Code = '';                          //get these details from daraja api or use random numbers for sanbox
     $Passkey = '';  //get these details from daraja api
     $Type_of_Transaction = 'CustomerPayBillOnline';
     $Token_URL = 'https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials';
